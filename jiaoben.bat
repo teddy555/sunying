@@ -1,5 +1,5 @@
 git pull
 git add *
-git commit -a -m sy
+git commit -a -m sunying
 git push origin master
 
